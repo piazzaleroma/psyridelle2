@@ -452,7 +452,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -595,7 +595,7 @@ section {
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: 24px;
   font-weight: bold;
   margin-bottom: 20px;
   padding-bottom: 15px;
@@ -616,7 +616,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   color: #777777;
-  font-size: 15px;
+  font-size: 16px;
 }
 #presentation {
   padding-top: 25px;
@@ -627,7 +627,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 600;
-  font-size: 26px;
+  font-size: 19px;
 }
 
 .about .content ul {
@@ -648,7 +648,7 @@ section {
   position: absolute;
   left: 0;
   top: 2px;
-  font-size: 20px;
+  font-size: 16px;
   color: #7590be;
   line-height: 1;
 }
@@ -660,7 +660,7 @@ section {
 .about .content .btn-learn-more {
   font-family: "Roboto Slab", serif;font-family: 'Roboto Slab', serif;
   font-weight: 900;
-  font-size: 25px;
+  font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 32px;
@@ -715,7 +715,7 @@ padding-top: 15px;
 .services .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 24px;
+  font-size: 16px;
 }
 
 .services .icon-box h4 a {
@@ -725,7 +725,7 @@ padding-top: 15px;
 
 .services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -814,7 +814,7 @@ ul.icons {
 
 .cta h3 {
   color: #fff;
-  font-size: 28px;
+  font-size: 19px;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -878,7 +878,7 @@ ul.icons {
 
 
 .features .icon-box p {
-  font-size: 15px;
+  font-size: 16px;
   color: #848484;
   margin-left: 60px;
 }
@@ -997,7 +997,7 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .counts .title h3 {
-  font-size: 36px;
+  font-size: 19px;
   font-weight: 700;
 }
 
@@ -1012,7 +1012,7 @@ font-size: calc(0.8em + 0.8vw);
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Roboto Slab", serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #fff;
 }
 
@@ -1110,14 +1110,14 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .portfolio .portfolio-item .portfolio-info h4 {
-  font-size: 18px;
+  font-size: 16px;
   color: #fff;
   font-weight: 600;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -1181,7 +1181,7 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .portfolio-details .portfolio-info h3 {
-  font-size: 22px;
+  font-size: 19px;
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -1191,7 +1191,7 @@ font-size: calc(0.8em + 0.8vw);
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .portfolio-details .portfolio-info ul li + li {
@@ -1203,7 +1203,7 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .portfolio-details .portfolio-description h2 {
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1233,13 +1233,13 @@ font-size: calc(0.8em + 0.8vw);
   font-weight: 400;
   padding: 15px;
   margin-top: 15px;
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 600;
   color: #282828;
 }
 
 .pricing .box h4 {
-  font-size: 42px;
+  font-size: 16px;
   color: #7590be;
   font-weight: 500;
   font-family: "Roboto Slab", serif;
@@ -1247,7 +1247,7 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .pricing .box h4 sup {
-  font-size: 20px;
+  font-size: 16px;
   top: -15px;
   left: -3px;
 }
@@ -1264,7 +1264,7 @@ font-size: calc(0.8em + 0.8vw);
   color: #282828;
   text-align: center;
   line-height: 20px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .pricing .box ul li {
@@ -1273,7 +1273,7 @@ font-size: calc(0.8em + 0.8vw);
 
 .pricing .box ul i {
   color: #7590be;
-  font-size: 18px;
+  font-size: 16px;
   padding-right: 4px;
 }
 
@@ -1293,9 +1293,9 @@ font-size: calc(0.8em + 0.8vw);
   border-radius: 50px;
   border: 2px solid #7590be;
   color: #7590be;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
-  font-family: "Roboto Slab", serif;
+  font-family: \piazzaleroma\psyridelle2\blob\main\index.html"Roboto Slab", serif;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1325,7 +1325,7 @@ font-size: calc(0.8em + 0.8vw);
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
-  font-size: 13px;
+  font-size: 16px;
   padding: 3px 25px 6px 25px;
   background: #edfbf0;
   color: #7590be;
@@ -1345,17 +1345,17 @@ font-size: calc(0.8em + 0.8vw);
 
 .faq .content h3 {
   font-weight: 400;
-  font-size: 34px;
+  font-size: 19px;
 }
 
 .faq .content h4 {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
   margin-top: 5px;
 }
 
 .faq .content p {
-  font-size: 15px;
+  font-size: 16px;
   color: #848484;
 }
 
@@ -1399,7 +1399,7 @@ font-size: calc(0.8em + 0.8vw);
 }
 
 .faq .accordion-list i {
-  font-size: 24px;
+  font-size: 16px;
   position: absolute;
   right: 0;
   top: 0;
@@ -1468,7 +1468,7 @@ font-size: calc(0.8em + 0.8vw);
 
 .contact .info h4 {
   padding: 0 0 0 60px;
-  font-size: 22px;
+  font-size: 16px;
   font-weight: 600;
   margin-bottom: 5px;
   color: #282828;
@@ -1477,7 +1477,7 @@ font-size: calc(0.8em + 0.8vw);
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 16px;
   color: #5b5b5b;
 }
 
@@ -1615,7 +1615,7 @@ iframe {
 }
 
 .breadcrumbs h2 {
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 500;
 }
 
@@ -1625,7 +1625,7 @@ iframe {
   list-style: none;
   padding: 0 0 10px 0;
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .breadcrumbs ol li + li {
@@ -1651,7 +1651,7 @@ iframe {
 }
 
 #footer h3 {
-  font-size: 36px;
+  font-size: 19px;
   font-weight: 700;
   color: #fff;
   position: relative;
@@ -1661,7 +1661,7 @@ iframe {
 }
 
 #footer p {
-  font-size: 15;
+  font-size: 16px;
   font-style: italic;
   padding: 0;
   margin: 0 0 40px 0;
@@ -1672,7 +1672,7 @@ iframe {
 }
 
 #footer .social-links a {
-  font-size: 18px;
+  font-size: 16px;
   display: inline-block;
   background: #7590be;
   color: #fff;
