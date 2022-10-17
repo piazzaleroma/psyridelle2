@@ -867,7 +867,7 @@ ul.icons {
 .features .icon-box h3 {
   font-size: 24px;
   font-weight:600;
-  margin: 0 0 10px 60px;
+  margin: 0 0 20px 60px;
 }
 
 .features .icon-box i {
@@ -1295,7 +1295,7 @@ font-size: calc(0.8em + 0.8vw);
   color: #7590be;
   font-size: 16px;
   font-weight: 400;
-  font-family: \piazzaleroma\psyridelle2\blob\main\index.html"Roboto Slab", serif;
+  font-family: "Roboto Slab", serif;
   font-weight: 600;
   transition: 0.3s;
 }
